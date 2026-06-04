@@ -65,4 +65,3 @@ This project demonstrated the practical implementation of Natural Language Proce
 
 <img width="1078" height="623" alt="Image" src="https://github.com/user-attachments/assets/96b50812-5bc9-4f87-854f-15b1901c1e5d" />
 
-<img width="950" height="681" alt="Image" src="https://github.com/user-attachments/assets/c5535a17-4a4c-4f7f-bf51-afc6a8bee1d6" />
