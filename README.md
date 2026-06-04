@@ -60,3 +60,7 @@ The trained model was also tested using custom review inputs, and it accurately 
 ## Conclusion
 
 This project demonstrated the practical implementation of Natural Language Processing and Machine Learning for sentiment classification. By combining text preprocessing, feature extraction, and predictive modeling, meaningful insights were obtained from unstructured textual data. The project highlights the importance of NLP in understanding customer opinions and supporting data-driven decision-making.
+
+## OUTPUT
+
+<img width="1078" height="623" alt="Image" src="https://github.com/user-attachments/assets/96b50812-5bc9-4f87-854f-15b1901c1e5d" />
