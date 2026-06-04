@@ -1,8 +1,3 @@
-# ==========================================
-# TASK-4: SENTIMENT ANALYSIS USING NLP
-# CODTECH INTERNSHIP
-# ==========================================
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
