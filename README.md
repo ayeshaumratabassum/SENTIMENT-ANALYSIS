@@ -14,7 +14,7 @@
 
 # TASK-4: SENTIMENT ANALYSIS USING NATURAL LANGUAGE PROCESSING (NLP)
 
- *Objective*
+## Objective
 
 The objective of this project is to perform Sentiment Analysis on textual data using Natural Language Processing (NLP) techniques. Sentiment Analysis is a text mining process used to identify and classify opinions expressed in text as positive, negative, or neutral. In this project, the IMDb Movie Reviews dataset was used to analyze customer opinions and automatically determine the sentiment associated with each review.
 
